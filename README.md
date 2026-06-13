@@ -86,4 +86,4 @@ multi-user/
 
 - Set `PORT` for the Go server; serve the Vite build as static files or behind a reverse proxy that upgrades WebSockets.
 - Tighten `CheckOrigin` in `main.go` for your domain.
-- For very large documents or heavy concurrency, consider CRDTs (e.g. Yjs) or operational transformation libraries.
+- For very large documents or heavy concurrency, consider CRDTs (e.g. Yjs) or operational transformation libraries
