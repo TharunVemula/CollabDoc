@@ -1,0 +1,4 @@
+client/dist/*
+client/node_modules/*
+client/.env.development
+server/collabdoc.exe

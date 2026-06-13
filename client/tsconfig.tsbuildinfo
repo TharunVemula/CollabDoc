@@ -1,0 +1,12 @@
+{
+  "root": [
+    "./src/app.tsx",
+    "./src/collaborativeeditor.tsx",
+    "./src/diff.ts",
+    "./src/main.tsx",
+    "./src/types.ts",
+    "./src/usecollaboration.ts",
+    "./src/vite-env.d.ts"
+  ],
+  "version": "5.9.3"
+}
